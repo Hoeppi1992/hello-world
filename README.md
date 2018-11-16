@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository
+
+Music makes the world go round
